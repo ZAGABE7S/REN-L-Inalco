@@ -20,7 +20,7 @@ Expérimentation :
 
 - Lecture des données annotées dans le système, avec une sélection de 500.000 lignes au lieu de 9.681.277.
 Nombre de phrase 22.705, 
-Nombre de caractères : 6905974.
+Nombre de caractères : 6.905.974
 
 - Visualisation de ces données sous forme graphique par nombre de jeton et échantillons
 
